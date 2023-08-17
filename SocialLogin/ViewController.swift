@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    func socialLogin() {
+        print("Worked on Social login and pushed on 8 PM")
+    }
 }
 
